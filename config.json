@@ -1,5 +1,5 @@
 {
-    "pass": "Chaitu@2020", 
+    "pass": "Enter Your MYSQL Root PASSWORD Here", 
     "user": "root",
     "host": "localhost",
     "database": "employees"
